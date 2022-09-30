@@ -12,6 +12,6 @@
 </html>
 <?php
     header("HTTP/1.1 302 found"); 
-    header("Location:https://120.77.249.243:14088/result.php");
+    header("Location:http://120.77.249.243:14088/result.php");
     exit();
 ?>
